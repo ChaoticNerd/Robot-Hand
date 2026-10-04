@@ -1,0 +1,11 @@
+README.md
+
+Hi! Hanna here!
+
+In this folder are some extra tools I had to seek out to get the project working! This includes the arm-none-eabi-gdb.exe file I was missing. It can be downloaded from the ARMGNU github, specifically the arm-gnu-toolchain-15.3.rel1-mingw-w64-x86_64-arm-none-eabi zip file, in case I'm missing any essentials. These can just be copy/pasted into msys64/mingw64/arm-none-eabi/bin and it should work from there!
+
+In addition, to get the USB driver for Winlib, I downloaded Zadig to help install the driver!
+
+I think that should be everything? Let me know if there's any missing essentials!
+
+Also, I didn't include it here because it's almost 2000 pages, but be sure to look up the STM32L47xxx reference manual!
