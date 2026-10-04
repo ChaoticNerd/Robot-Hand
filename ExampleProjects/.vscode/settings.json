@@ -1,0 +1,4 @@
+{
+    "cortex-debug.gdbPath":"C:/msys64/mingw64/arm-none-eabi/bin/arm-none-eabi-gdb",
+    "cortex-debug.openocdPath": "C:/openocd/bin/openocd"
+}
