@@ -7,7 +7,7 @@
 
         {
             "cwd": "${workspaceRoot}",
-            "executable": "./examples/stm32/l4/stm32l476g-disco/basics/basics.elf",
+            "executable": "./l4/stm32l476g-disco/basics/basics.elf",
             "name": "Debug with OpenOCD",
             "request": "launch",
             "type": "cortex-debug",
